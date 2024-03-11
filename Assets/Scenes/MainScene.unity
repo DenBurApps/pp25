@@ -719,8 +719,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -778.929}
-  m_SizeDelta: {x: 935.2915, y: 64.536}
+  m_AnchoredPosition: {x: 467.50928, y: -778.929}
+  m_SizeDelta: {x: 935.01855, y: 64.536}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &43584311
 GameObject:
@@ -3266,8 +3266,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -1456.5332}
-  m_SizeDelta: {x: 935.2915, y: 293.4298}
+  m_AnchoredPosition: {x: 467.50928, y: -1456.5332}
+  m_SizeDelta: {x: 935.01855, y: 293.4298}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &195189763
 MonoBehaviour:
@@ -3401,8 +3401,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -1136.8948}
-  m_SizeDelta: {x: 935.2915, y: 64.536}
+  m_AnchoredPosition: {x: 467.50928, y: -1136.8948}
+  m_SizeDelta: {x: 935.01855, y: 64.536}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &209383973
 GameObject:
@@ -4369,8 +4369,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -44.369}
-  m_SizeDelta: {x: 935.2915, y: 88.738}
+  m_AnchoredPosition: {x: 467.50928, y: -44.369}
+  m_SizeDelta: {x: 935.01855, y: 88.738}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &296607215
 MonoBehaviour:
@@ -5278,8 +5278,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -209.492}
-  m_SizeDelta: {x: 935.2915, y: 100}
+  m_AnchoredPosition: {x: 467.50928, y: -209.492}
+  m_SizeDelta: {x: 935.01855, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &345418863
 GameObject:
@@ -5485,8 +5485,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -432.74875}
-  m_SizeDelta: {x: 935.2915, y: 346.5135}
+  m_AnchoredPosition: {x: 467.50928, y: -432.74875}
+  m_SizeDelta: {x: 935.01855, y: 346.5135}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &356703162
 GameObject:
@@ -7157,8 +7157,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -1691.3328}
-  m_SizeDelta: {x: 935.2915, y: 115.47}
+  m_AnchoredPosition: {x: 467.50928, y: -1691.3328}
+  m_SizeDelta: {x: 935.01855, y: 115.47}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &488989603
 MonoBehaviour:
@@ -7711,7 +7711,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 170, y: 170}
+  m_SizeDelta: {x: 170, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &518776411
 MonoBehaviour:
@@ -8275,7 +8275,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 170, y: 170}
+  m_SizeDelta: {x: 170, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &554227369
 MonoBehaviour:
@@ -9067,8 +9067,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -708.60126}
-  m_SizeDelta: {x: 935.2915, y: 76.1195}
+  m_AnchoredPosition: {x: 467.50928, y: -708.60126}
+  m_SizeDelta: {x: 935.01855, y: 76.1195}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &619142034
 MonoBehaviour:
@@ -9201,8 +9201,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -44.369}
-  m_SizeDelta: {x: 935.2915, y: 88.738}
+  m_AnchoredPosition: {x: 467.50928, y: -44.369}
+  m_SizeDelta: {x: 935.01855, y: 88.738}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &624583446
 MonoBehaviour:
@@ -9900,8 +9900,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -1277.5503}
-  m_SizeDelta: {x: 935.2915, y: 64.536}
+  m_AnchoredPosition: {x: 467.50928, y: -1277.5503}
+  m_SizeDelta: {x: 935.01855, y: 64.536}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &717748869
 GameObject:
@@ -10872,8 +10872,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -44.369}
-  m_SizeDelta: {x: 935.2915, y: 88.738}
+  m_AnchoredPosition: {x: 467.50928, y: -44.369}
+  m_SizeDelta: {x: 935.01855, y: 88.738}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &799086009
 MonoBehaviour:
@@ -10925,9 +10925,9 @@ MonoBehaviour:
   m_fontSize: 70
   m_fontSizeBase: 70
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
-  m_fontSizeMax: 72
+  m_fontSizeMax: 70
   m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
@@ -11435,7 +11435,7 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: 21300000, guid: 9123f84abbde76e41b24c7813d83b87b, type: 3}
   m_Type: 0
-  m_PreserveAspect: 1
+  m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -11552,8 +11552,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -957.9119}
-  m_SizeDelta: {x: 935.2915, y: 293.4298}
+  m_AnchoredPosition: {x: 467.50928, y: -957.9119}
+  m_SizeDelta: {x: 935.01855, y: 293.4298}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &840396817
 MonoBehaviour:
@@ -11957,8 +11957,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -124.115}
-  m_SizeDelta: {x: 935.2915, y: 70.754}
+  m_AnchoredPosition: {x: 467.50928, y: -124.115}
+  m_SizeDelta: {x: 935.01855, y: 70.754}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &854906256
 MonoBehaviour:
@@ -12007,12 +12007,12 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 47.8
+  m_fontSize: 48
   m_fontSizeBase: 47.8
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
-  m_fontSizeMax: 72
+  m_fontSizeMax: 48
   m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
@@ -12825,7 +12825,7 @@ MonoBehaviour:
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 1
   m_ChildControlWidth: 0
-  m_ChildControlHeight: 0
+  m_ChildControlHeight: 1
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
@@ -13424,12 +13424,13 @@ RectTransform:
   - {fileID: 1502831368}
   - {fileID: 1221602448}
   - {fileID: 2058130315}
+  - {fileID: 1044706140}
   m_Father: {fileID: 594687125}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0.00012207031}
-  m_SizeDelta: {x: 0, y: -261.58228}
+  m_SizeDelta: {x: 0, y: 205.97095}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &911288130
 MonoBehaviour:
@@ -13641,8 +13642,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -124.115}
-  m_SizeDelta: {x: 935.2915, y: 70.754}
+  m_AnchoredPosition: {x: 467.50928, y: -124.115}
+  m_SizeDelta: {x: 935.01855, y: 70.754}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &916794352
 MonoBehaviour:
@@ -13842,8 +13843,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -1207.2225}
-  m_SizeDelta: {x: 935.2915, y: 76.1195}
+  m_AnchoredPosition: {x: 467.50928, y: -1207.2225}
+  m_SizeDelta: {x: 935.01855, y: 76.1195}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &928193494
 MonoBehaviour:
@@ -13942,6 +13943,41 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 928193492}
   m_CullTransparentMesh: 1
+--- !u!1 &947817370
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 947817371}
+  m_Layer: 5
+  m_Name: Filler (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &947817371
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 947817370}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 956345975}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 467.50925, y: -1983.1377}
+  m_SizeDelta: {x: 935.0186, y: 468.14}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &950582049
 GameObject:
   m_ObjectHideFlags: 0
@@ -14053,12 +14089,13 @@ RectTransform:
   - {fileID: 1741365298}
   - {fileID: 1555359106}
   - {fileID: 488989602}
+  - {fileID: 947817371}
   m_Father: {fileID: 762375225}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0.00012207031}
-  m_SizeDelta: {x: 0, y: -261.58228}
+  m_SizeDelta: {x: 0, y: 205.97095}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &956345976
 MonoBehaviour:
@@ -14697,8 +14734,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -957.9119}
-  m_SizeDelta: {x: 935.2915, y: 293.4298}
+  m_AnchoredPosition: {x: 467.50928, y: -957.9119}
+  m_SizeDelta: {x: 935.01855, y: 293.4298}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1021784702
 MonoBehaviour:
@@ -14910,6 +14947,41 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1040875489}
   m_CullTransparentMesh: 1
+--- !u!1 &1044706139
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1044706140}
+  m_Layer: 5
+  m_Name: Filler (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1044706140
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1044706139}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 911288129}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 467.50928, y: -1983.1377}
+  m_SizeDelta: {x: 935.0186, y: 468.14}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1059992908
 GameObject:
   m_ObjectHideFlags: 0
@@ -14942,8 +15014,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -778.929}
-  m_SizeDelta: {x: 935.2915, y: 64.536}
+  m_AnchoredPosition: {x: 467.50928, y: -778.929}
+  m_SizeDelta: {x: 935.01855, y: 64.536}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1062013325
 GameObject:
@@ -15038,12 +15110,13 @@ RectTransform:
   - {fileID: 195189762}
   - {fileID: 1844298762}
   - {fileID: 1374339836}
+  - {fileID: 1477720556}
   m_Father: {fileID: 308113694}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0.00012207031}
-  m_SizeDelta: {x: 0, y: -261.58228}
+  m_SizeDelta: {x: 0, y: 205.97095}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1070343650
 MonoBehaviour:
@@ -15424,8 +15497,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -1277.5503}
-  m_SizeDelta: {x: 935.2915, y: 64.536}
+  m_AnchoredPosition: {x: 467.50928, y: -1277.5503}
+  m_SizeDelta: {x: 935.01855, y: 64.536}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1112678551
 GameObject:
@@ -16266,7 +16339,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 170, y: 170}
+  m_SizeDelta: {x: 170, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1185440237
 MonoBehaviour:
@@ -16883,8 +16956,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -1618.423}
-  m_SizeDelta: {x: 935.2915, y: 30.3496}
+  m_AnchoredPosition: {x: 467.50928, y: -1618.423}
+  m_SizeDelta: {x: 935.01855, y: 30.3496}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1223385976
 GameObject:
@@ -18077,8 +18150,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -638.2735}
-  m_SizeDelta: {x: 935.2915, y: 64.536}
+  m_AnchoredPosition: {x: 467.50928, y: -638.2735}
+  m_SizeDelta: {x: 935.01855, y: 64.536}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1328376731
 GameObject:
@@ -19586,8 +19659,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -1691.3328}
-  m_SizeDelta: {x: 935.2915, y: 115.47}
+  m_AnchoredPosition: {x: 467.50928, y: -1691.3328}
+  m_SizeDelta: {x: 935.01855, y: 115.47}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1374339837
 MonoBehaviour:
@@ -19967,91 +20040,90 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Last updated: February 28, 2024
 
-    
 
-    Please read these terms and
-    conditions carefully before using Our Service.
 
-    
+    Please read these terms and conditions
+    carefully before using Our Service.
 
-    Interpretation and
-    Definitions
+
+
+    Interpretation and Definitions
 
     Interpretation
 
-    The words of which the initial letter
-    is capitalized have meanings defined under the following conditions. The following
-    definitions shall have the same meaning regardless of whether they appear in
-    singular or in plural.
+    The
+    words of which the initial letter is capitalized have meanings defined under
+    the following conditions. The following definitions shall have the same meaning
+    regardless of whether they appear in singular or in plural.
 
-    
+
 
     Definitions
 
-    For the purposes of these
-    Terms and Conditions:
+    For
+    the purposes of these Terms and Conditions:
 
-    
 
-    Application means the software program provided
-    by the Company downloaded by You on any electronic device, named SportPulse Quiz
 
-    
+    Application means the software
+    program provided by the Company downloaded by You on any electronic device, named
+    SportPulse Quiz
 
-    Application
-    Store means the digital distribution service operated and developed by Apple
-    Inc. (Apple App Store) or Google Inc. (Google Play Store) in which the Application
-    has been downloaded.
 
-    
 
-    Affiliate means an entity that controls, is
-    controlled by or is under common control with a party, where "control" means
-    ownership of 50% or more of the shares, equity interest or other securities entitled
-    to vote for election of directors or other managing authority.
+    Application Store means the digital distribution service
+    operated and developed by Apple Inc. (Apple App Store) or Google Inc. (Google
+    Play Store) in which the Application has been downloaded.
 
-    
 
-    Country
-    refers to: Georgia, United States
 
-    
+    Affiliate means
+    an entity that controls, is controlled by or is under common control with a party,
+    where "control" means ownership of 50% or more of the shares, equity interest
+    or other securities entitled to vote for election of directors or other managing
+    authority.
 
-    Company (referred to as either
-    "the Company", "We", "Us" or "Our" in this Agreement) refers to SportPulse Quiz.
 
-    
 
-    Device
-    means any device that can access the Service such as a computer, a cellphone
-    or a digital tablet.
+    Country refers to: Georgia, United States
 
-    
 
-    Service refers to the Application.
 
-    
+    Company (referred
+    to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to
+    SportPulse Quiz.
 
-    Terms
-    and Conditions (also referred as "Terms") mean these Terms and Conditions that
-    form the entire agreement between You and the Company regarding the use of the
-    Service. This Terms and Conditions agreement has been created with the help of
-    the Free Terms and Conditions Generator.
 
-    
 
-    Third-party Social Media
-    Service means any services or content (including data, information, products
-    or services) provided by a third-party that may be displayed, included or made
-    available by the Service.
+    Device means any device that can access the Service such
+    as a computer, a cellphone or a digital tablet.
 
-    
+
+
+    Service refers to the
+    Application.
+
+
+
+    Terms and Conditions (also referred as "Terms") mean these
+    Terms and Conditions that form the entire agreement between You and the Company
+    regarding the use of the Service. This Terms and Conditions agreement has been
+    created with the help of the Free Terms and Conditions Generator.
+
+
+
+    Third-party
+    Social Media Service means any services or content (including data, information,
+    products or services) provided by a third-party that may be displayed, included
+    or made available by the Service.
+
+
 
     You means the individual accessing or
     using the Service, or the company, or other legal entity on behalf of which such
     individual is accessing or using the Service, as applicable.
 
-    
+
 
     Acknowledgment
 
@@ -20060,104 +20132,103 @@ MonoBehaviour:
     that operates between You and the Company. These Terms and Conditions set out
     the rights and obligations of all users regarding the use of the Service.
 
-    
+
 
     Your
     access to and use of the Service is conditioned on Your acceptance of and compliance
     with these Terms and Conditions. These Terms and Conditions apply to all visitors,
     users and others who access or use the Service.
 
-    
 
-    By accessing or
-    using the Service You agree to be bound by these Terms and Conditions. If You
-    disagree with any part of these Terms and Conditions then You may not access
-    the Service.
 
-    
+    By accessing or using
+    the Service You agree to be bound by these Terms and Conditions. If You disagree
+    with any part of these Terms and Conditions then You may not access the Service.
 
-    You represent that you are over the age of 18. The
-    Company does not permit those under 18 to use the Service.
 
-    
 
-    Your
-    access to and use of the Service is also conditioned on Your acceptance of and
-    compliance with the Privacy Policy of the Company. Our Privacy Policy describes
-    Our policies and procedures on the collection, use and disclosure of Your personal
-    information when You use the Application or the Website and tells You about Your
-    privacy rights and how the law protects You. Please read Our Privacy Policy carefully
-    before using Our Service.
+    You
+    represent that you are over the age of 18. The Company does not permit those
+    under 18 to use the Service.
 
-    
 
-    Links to Other Websites
 
-    Our Service
-    may contain links to third-party web sites or services that are not owned or
-    controlled by the Company.
+    Your access to and use of the Service is
+    also conditioned on Your acceptance of and compliance with the Privacy Policy
+    of the Company. Our Privacy Policy describes Our policies and procedures on the
+    collection, use and disclosure of Your personal information when You use the
+    Application or the Website and tells You about Your privacy rights and how the
+    law protects You. Please read Our Privacy Policy carefully before using Our Service.
 
-    
 
-    The Company has no control over, and
-    assumes no responsibility for, the content, privacy policies, or practices of
-    any third party web sites or services. You further acknowledge and agree that
-    the Company shall not be responsible or liable, directly or indirectly, for any
-    damage or loss caused or alleged to be caused by or in connection with the use
-    of or reliance on any such content, goods or services available on or through
-    any such web sites or services.
 
-    
+    Links
+    to Other Websites
 
-    We strongly advise You to read the
-    terms and conditions and privacy policies of any third-party web sites or services
-    that You visit.
+    Our Service may contain links to third-party web sites
+    or services that are not owned or controlled by the Company.
 
-    
+
+
+    The Company
+    has no control over, and assumes no responsibility for, the content, privacy
+    policies, or practices of any third party web sites or services. You further
+    acknowledge and agree that the Company shall not be responsible or liable, directly
+    or indirectly, for any damage or loss caused or alleged to be caused by or in
+    connection with the use of or reliance on any such content, goods or services
+    available on or through any such web sites or services.
+
+
+
+    We strongly advise
+    You to read the terms and conditions and privacy policies of any third-party
+    web sites or services that You visit.
+
+
 
     Termination
 
-    We may terminate or suspend Your
-    access immediately, without prior notice or liability, for any reason whatsoever,
-    including without limitation if You breach these Terms and Conditions.
+    We may terminate
+    or suspend Your access immediately, without prior notice or liability, for any
+    reason whatsoever, including without limitation if You breach these Terms and
+    Conditions.
 
-    
 
-    Upon
-    termination, Your right to use the Service will cease immediately.
 
-    
+    Upon termination, Your right to use the Service will cease
+    immediately.
 
-    Limitation
-    of Liability
 
-    Notwithstanding any damages that You might incur, the entire
-    liability of the Company and any of its suppliers under any provision of this
-    Terms and Your exclusive remedy for all of the foregoing shall be limited to
-    the amount actually paid by You through the Service or 100 USD if You haven''t
-    purchased anything through the Service.
 
-    
+    Limitation of Liability
 
-    To the maximum extent permitted
-    by applicable law, in no event shall the Company or its suppliers be liable for
-    any special, incidental, indirect, or consequential damages whatsoever (including,
-    but not limited to, damages for loss of profits, loss of data or other information,
-    for business interruption, for personal injury, loss of privacy arising out of
-    or in any way related to the use of or inability to use the Service, third-party
-    software and/or third-party hardware used with the Service, or otherwise in connection
-    with any provision of this Terms), even if the Company or any supplier has been
-    advised of the possibility of such damages and even if the remedy fails of its
-    essential purpose.
+    Notwithstanding any damages
+    that You might incur, the entire liability of the Company and any of its suppliers
+    under any provision of this Terms and Your exclusive remedy for all of the foregoing
+    shall be limited to the amount actually paid by You through the Service or 100
+    USD if You haven''t purchased anything through the Service.
 
-    
+
+
+    To the maximum
+    extent permitted by applicable law, in no event shall the Company or its suppliers
+    be liable for any special, incidental, indirect, or consequential damages whatsoever
+    (including, but not limited to, damages for loss of profits, loss of data or
+    other information, for business interruption, for personal injury, loss of privacy
+    arising out of or in any way related to the use of or inability to use the Service,
+    third-party software and/or third-party hardware used with the Service, or otherwise
+    in connection with any provision of this Terms), even if the Company or any supplier
+    has been advised of the possibility of such damages and even if the remedy fails
+    of its essential purpose.
+
+
 
     Some states do not allow the exclusion of implied
     warranties or limitation of liability for incidental or consequential damages,
     which means that some of the above limitations may not apply. In these states,
     each party''s liability will be limited to the greatest extent permitted by law.
 
-    
+
 
     "AS
     IS" and "AS AVAILABLE" Disclaimer
@@ -20177,19 +20248,19 @@ MonoBehaviour:
     interruption, meet any performance or reliability standards or be error free
     or that any errors or defects can or will be corrected.
 
-    
 
-    Without
-    limiting the foregoing, neither the Company nor any of the company''s provider
-    makes any representation or warranty of any kind, express or implied: (i) as
-    to the operation or availability of the Service, or the information, content,
-    and materials or products included thereon; (ii) that the Service will be uninterrupted
-    or error-free; (iii) as to the accuracy, reliability, or currency of any information
-    or content provided through the Service; or (iv) that the Service, its servers,
-    the content, or e-mails sent from or on behalf of the Company are free of viruses,
-    scripts, trojan horses, worms, malware, timebombs or other harmful components.
 
-    
+    Without limiting
+    the foregoing, neither the Company nor any of the company''s provider makes any
+    representation or warranty of any kind, express or implied: (i) as to the operation
+    or availability of the Service, or the information, content, and materials or
+    products included thereon; (ii) that the Service will be uninterrupted or error-free;
+    (iii) as to the accuracy, reliability, or currency of any information or content
+    provided through the Service; or (iv) that the Service, its servers, the content,
+    or e-mails sent from or on behalf of the Company are free of viruses, scripts,
+    trojan horses, worms, malware, timebombs or other harmful components.
+
+
 
     Some
     jurisdictions do not allow the exclusion of certain types of warranties or limitations
@@ -20198,101 +20269,101 @@ MonoBehaviour:
     set forth in this section shall be applied to the greatest extent enforceable
     under applicable law.
 
-    
+
 
     Governing Law
 
-    The laws of the Country,
-    excluding its conflicts of law rules, shall govern this Terms and Your use of
-    the Service. Your use of the Application may also be subject to other local,
-    state, national, or international laws.
+    The laws of the Country, excluding
+    its conflicts of law rules, shall govern this Terms and Your use of the Service.
+    Your use of the Application may also be subject to other local, state, national,
+    or international laws.
 
-    
+
 
     Disputes Resolution
 
-    If
-    You have any concern or dispute about the Service, You agree to first try to
-    resolve the dispute informally by contacting the Company.
+    If You have any concern
+    or dispute about the Service, You agree to first try to resolve the dispute informally
+    by contacting the Company.
 
-    
 
-    For European
-    Union (EU) Users
 
-    If You are a European Union consumer, you will benefit
-    from any mandatory provisions of the law of the country in which You are resident.
+    For European Union (EU) Users
 
-    
+    If You are
+    a European Union consumer, you will benefit from any mandatory provisions of
+    the law of the country in which You are resident.
 
-    United
-    States Legal Compliance
 
-    You represent and warrant that (i) You are not
-    located in a country that is subject to the United States government embargo,
-    or that has been designated by the United States government as a "terrorist supporting"
-    country, and (ii) You are not listed on any United States government list of
-    prohibited or restricted parties.
 
-    
+    United States Legal
+    Compliance
+
+    You represent and warrant that (i) You are not located in a country
+    that is subject to the United States government embargo, or that has been designated
+    by the United States government as a "terrorist supporting" country, and (ii)
+    You are not listed on any United States government list of prohibited or restricted
+    parties.
+
+
 
     Severability and Waiver
 
     Severability
 
-    If
-    any provision of these Terms is held to be unenforceable or invalid, such provision
-    will be changed and interpreted to accomplish the objectives of such provision
-    to the greatest extent possible under applicable law and the remaining provisions
-    will continue in full force and effect.
+    If any provision
+    of these Terms is held to be unenforceable or invalid, such provision will be
+    changed and interpreted to accomplish the objectives of such provision to the
+    greatest extent possible under applicable law and the remaining provisions will
+    continue in full force and effect.
 
-    
+
 
     Waiver
 
-    Except as provided
-    herein, the failure to exercise a right or to require performance of an obligation
-    under these Terms shall not affect a party''s ability to exercise such right
-    or require such performance at any time thereafter nor shall the waiver of a
-    breach constitute a waiver of any subsequent breach.
+    Except as provided herein,
+    the failure to exercise a right or to require performance of an obligation under
+    these Terms shall not affect a party''s ability to exercise such right or require
+    such performance at any time thereafter nor shall the waiver of a breach constitute
+    a waiver of any subsequent breach.
 
-    
 
-    Translation
-    Interpretation
 
-    These Terms and Conditions may have been translated if We
-    have made them available to You on our Service. You agree that the original English
-    text shall prevail in the case of a dispute.
+    Translation Interpretation
 
-    
+    These
+    Terms and Conditions may have been translated if We have made them available
+    to You on our Service. You agree that the original English text shall prevail
+    in the case of a dispute.
 
-    Changes to These Terms
-    and Conditions
 
-    We reserve the right, at Our sole discretion, to modify
-    or replace these Terms at any time. If a revision is material We will make reasonable
-    efforts to provide at least 30 days'' notice prior to any new terms taking effect.
-    What constitutes a material change will be determined at Our sole discretion.
 
-    
+    Changes to These Terms and Conditions
+
+    We
+    reserve the right, at Our sole discretion, to modify or replace these Terms at
+    any time. If a revision is material We will make reasonable efforts to provide
+    at least 30 days'' notice prior to any new terms taking effect. What constitutes
+    a material change will be determined at Our sole discretion.
+
+
+
+    By continuing
+    to access or use Our Service after those revisions become effective, You agree
+    to be bound by the revised terms. If You do not agree to the new terms, in whole
+    or in part, please stop using the website and the Service.
+
+
+
+    Contact Us
+
+    If
+    you have any questions about these Terms and Conditions, You can contact us:
+
+
 
     By
-    continuing to access or use Our Service after those revisions become effective,
-    You agree to be bound by the revised terms. If You do not agree to the new terms,
-    in whole or in part, please stop using the website and the Service.
-
-    
-
-    Contact
-    Us
-
-    If you have any questions about these Terms and Conditions, You can
-    contact us:
-
-    
-
-    By email: konkonfbia@webtorm.online'
+    email: konkonfbia@webtorm.online'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -20777,8 +20848,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -708.60126}
-  m_SizeDelta: {x: 935.2915, y: 76.1195}
+  m_AnchoredPosition: {x: 467.50928, y: -708.60126}
+  m_SizeDelta: {x: 935.01855, y: 76.1195}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1427337608
 MonoBehaviour:
@@ -21300,6 +21371,41 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1 &1477720555
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1477720556}
+  m_Layer: 5
+  m_Name: Filler (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1477720556
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1477720555}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1070343649}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 467.50925, y: -1983.1377}
+  m_SizeDelta: {x: 935.0186, y: 468.14}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1495945761
 GameObject:
   m_ObjectHideFlags: 0
@@ -21468,8 +21574,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -1456.5332}
-  m_SizeDelta: {x: 935.2915, y: 293.4298}
+  m_AnchoredPosition: {x: 467.50928, y: -1456.5332}
+  m_SizeDelta: {x: 935.01855, y: 293.4298}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1502831369
 MonoBehaviour:
@@ -22051,8 +22157,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -638.2735}
-  m_SizeDelta: {x: 935.2915, y: 64.536}
+  m_AnchoredPosition: {x: 467.50928, y: -638.2735}
+  m_SizeDelta: {x: 935.01855, y: 64.536}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1555359105
 GameObject:
@@ -22086,8 +22192,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -1618.423}
-  m_SizeDelta: {x: 935.2915, y: 30.3496}
+  m_AnchoredPosition: {x: 467.50928, y: -1618.423}
+  m_SizeDelta: {x: 935.01855, y: 30.3496}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1556643489
 GameObject:
@@ -22767,8 +22873,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -432.74875}
-  m_SizeDelta: {x: 935.2915, y: 346.5135}
+  m_AnchoredPosition: {x: 467.50928, y: -432.74875}
+  m_SizeDelta: {x: 935.01855, y: 346.5135}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1647233375
 GameObject:
@@ -22802,8 +22908,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -209.492}
-  m_SizeDelta: {x: 935.2915, y: 100}
+  m_AnchoredPosition: {x: 467.50928, y: -209.492}
+  m_SizeDelta: {x: 935.01855, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1659699946
 GameObject:
@@ -22837,8 +22943,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -638.2735}
-  m_SizeDelta: {x: 935.2915, y: 64.536}
+  m_AnchoredPosition: {x: 467.50928, y: -638.2735}
+  m_SizeDelta: {x: 935.01855, y: 64.536}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1660645786
 GameObject:
@@ -23693,8 +23799,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -432.74875}
-  m_SizeDelta: {x: 935.2915, y: 346.5135}
+  m_AnchoredPosition: {x: 467.50928, y: -432.74875}
+  m_SizeDelta: {x: 935.01855, y: 346.5135}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1696374737
 GameObject:
@@ -24685,8 +24791,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -1456.5332}
-  m_SizeDelta: {x: 935.2915, y: 293.4298}
+  m_AnchoredPosition: {x: 467.50928, y: -1456.5332}
+  m_SizeDelta: {x: 935.01855, y: 293.4298}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1741365299
 MonoBehaviour:
@@ -25576,8 +25682,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -1277.5503}
-  m_SizeDelta: {x: 935.2915, y: 64.536}
+  m_AnchoredPosition: {x: 467.50928, y: -1277.5503}
+  m_SizeDelta: {x: 935.01855, y: 64.536}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1802731952
 GameObject:
@@ -25745,8 +25851,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -1136.8948}
-  m_SizeDelta: {x: 935.2915, y: 64.536}
+  m_AnchoredPosition: {x: 467.50928, y: -1136.8948}
+  m_SizeDelta: {x: 935.01855, y: 64.536}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1836505439
 GameObject:
@@ -26051,8 +26157,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -1618.423}
-  m_SizeDelta: {x: 935.2915, y: 30.3496}
+  m_AnchoredPosition: {x: 467.50928, y: -1618.423}
+  m_SizeDelta: {x: 935.01855, y: 30.3496}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1847753235
 GameObject:
@@ -26123,8 +26229,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -1207.2225}
-  m_SizeDelta: {x: 935.2915, y: 76.1195}
+  m_AnchoredPosition: {x: 467.50928, y: -1207.2225}
+  m_SizeDelta: {x: 935.01855, y: 76.1195}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1854843780
 MonoBehaviour:
@@ -26255,8 +26361,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -209.492}
-  m_SizeDelta: {x: 935.2915, y: 100}
+  m_AnchoredPosition: {x: 467.50928, y: -209.492}
+  m_SizeDelta: {x: 935.01855, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1904396947
 GameObject:
@@ -26570,8 +26676,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -957.9119}
-  m_SizeDelta: {x: 935.2915, y: 293.4298}
+  m_AnchoredPosition: {x: 467.50928, y: -957.9119}
+  m_SizeDelta: {x: 935.01855, y: 293.4298}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1947991085
 MonoBehaviour:
@@ -26745,7 +26851,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 170, y: 170}
+  m_SizeDelta: {x: 170, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1974036099
 MonoBehaviour:
@@ -26890,8 +26996,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -708.60126}
-  m_SizeDelta: {x: 935.2915, y: 76.1195}
+  m_AnchoredPosition: {x: 467.50928, y: -708.60126}
+  m_SizeDelta: {x: 935.01855, y: 76.1195}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1979852021
 MonoBehaviour:
@@ -27024,8 +27130,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -1207.2225}
-  m_SizeDelta: {x: 935.2915, y: 76.1195}
+  m_AnchoredPosition: {x: 467.50928, y: -1207.2225}
+  m_SizeDelta: {x: 935.01855, y: 76.1195}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1996519576
 MonoBehaviour:
@@ -27442,8 +27548,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -124.115}
-  m_SizeDelta: {x: 935.2915, y: 70.754}
+  m_AnchoredPosition: {x: 467.50928, y: -124.115}
+  m_SizeDelta: {x: 935.01855, y: 70.754}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2019576560
 MonoBehaviour:
@@ -28105,8 +28211,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -1691.3328}
-  m_SizeDelta: {x: 935.2915, y: 115.47}
+  m_AnchoredPosition: {x: 467.50928, y: -1691.3328}
+  m_SizeDelta: {x: 935.01855, y: 115.47}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2058130316
 MonoBehaviour:
@@ -28366,8 +28472,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -778.929}
-  m_SizeDelta: {x: 935.2915, y: 64.536}
+  m_AnchoredPosition: {x: 467.50928, y: -778.929}
+  m_SizeDelta: {x: 935.01855, y: 64.536}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2058477326
 GameObject:
@@ -28891,8 +28997,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 467.64575, y: -1136.8948}
-  m_SizeDelta: {x: 935.2915, y: 64.536}
+  m_AnchoredPosition: {x: 467.50928, y: -1136.8948}
+  m_SizeDelta: {x: 935.01855, y: 64.536}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &5198425193679255994
 PrefabInstance:
