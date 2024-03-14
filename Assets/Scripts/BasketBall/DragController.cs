@@ -38,9 +38,14 @@ public class DragController : MonoBehaviour
         _gameEnded = true;
     }
 
+    public void UnlockDrag()
+    {
+        _gameEnded = false;
+    }
+
     private void Update()
     {
-        if (!_ball.GetOnGround() || _gameEnded)
+        if (_ball.GetOnGround() == false || _gameEnded)
         {
             return;
         }
@@ -73,6 +78,7 @@ public class DragController : MonoBehaviour
         Vector3 finalForce = distance * _force;
 
         _ball.ThrowBall(finalForce);
+
     }
 
     private void Drag()

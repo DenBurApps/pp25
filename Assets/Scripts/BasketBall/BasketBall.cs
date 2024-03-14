@@ -12,7 +12,7 @@ public class BasketBall : MonoBehaviour
         _rb = GetComponent<Rigidbody2D>();
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnCollisionStay2D(Collision2D collision)
     {
         if(collision.gameObject.TryGetComponent(out Ground ground))
         {
@@ -20,13 +20,14 @@ public class BasketBall : MonoBehaviour
         }
     }
 
+
     public bool GetOnGround()
     {
         return _onGround;
     }
 
     public void ThrowBall(Vector3 force)
-    {
+    {      
         _rb.AddForce(-force, ForceMode2D.Impulse);
         _onGround = false;
     }
